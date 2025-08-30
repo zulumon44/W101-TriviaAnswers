@@ -491,11 +491,11 @@
             "The Adventures of Huckleberry Finn"
         ],
         [
-            "\"All animals are equal, but some animals are more equal than others\"",
+            "\"All animals are equal, but some animals are more equal than others.\"",
             "Animal Farm"
         ],
         [
-            "\"All grown-ups were once children\"but only few of them remember it.\"",
+            "\"All grown-ups were once children - but only few of them remember it.\"",
             "The Little Prince"
         ],
         [
@@ -507,7 +507,7 @@
             "The Catcher in the Rye"
         ],
         [
-            "\"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It\"s when you know you\"re licked before you begin but you begin anyway and you see it through no matter what.\"",
+            "\"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It\'s when you know you\'re licked before you begin but you begin anyway and you see it through no matter what.\"",
             "To Kill a Mockingbird"
         ],
         [
@@ -519,7 +519,7 @@
             "The Scarlet Letter"
         ],
         [
-            "\"Most people were heartless about turtles because a turtle\"s heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too.\"",
+            "\"Most people were heartless about turtles because a turtle\'s heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too.\"",
             "The Old Man and the Sea"
         ],
         [
@@ -3560,3 +3560,4 @@
         ]
     ]
 }
+
