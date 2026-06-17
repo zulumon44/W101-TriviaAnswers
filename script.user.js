@@ -29,7 +29,7 @@
 
     // Fetch and Parse the JSON from https://raw.githubusercontent.com/Jan-Fcloud/W101-TriviaAnswers/main/answers.json
 
-    $.getJSON("https://raw.githubusercontent.com/Jan-Fcloud/W101-TriviaAnswers/main/answers.json", function (data) {
+    $.getJSON("https://raw.githubusercontent.com/zulumon44/W101-TriviaAnswers/main/answers.json", function (data) {
         console.log(data);
 
         let triviaPages = [
